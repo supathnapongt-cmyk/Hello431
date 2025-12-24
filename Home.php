@@ -25,10 +25,12 @@
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a href="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่ออออออออออ</li>
+				<li><a href="contact.php">ติดต่อทำไม</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
 		</tr>
 	</table>
 <body>
+
 
